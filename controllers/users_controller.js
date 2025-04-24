@@ -56,6 +56,7 @@ module.exports.signUp = (req, res) => {
   });
 };
 
+
 // get Sign Up data
 module.exports.create = async (req, res) => {
   try {

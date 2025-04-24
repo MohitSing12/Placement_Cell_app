@@ -131,3 +131,10 @@ module.exports.deallocate = async (req, res) => {
     req.flash("error", "Couldn't deallocate from interview");
   }
 };
+
+// module.exports.edit=async(req,res)=>{
+// try{
+//   const { studentId, interviewId } = req.params;
+
+// }
+// }
